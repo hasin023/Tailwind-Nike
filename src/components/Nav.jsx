@@ -30,7 +30,7 @@ const Nav = () => {
 
 
             <div className='flex gap-2 text-lg leading-normal font-medium font-montserrat max-lg:hidden wide:mr-4'>
-              <SignUpButton/>
+              <SignUpButton label='Sign Up' px='px-12'/>
             </div>
 
 

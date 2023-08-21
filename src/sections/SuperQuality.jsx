@@ -22,7 +22,7 @@ const SuperQuality = () => {
         </p>
 
         <div className='mt-11'>
-          <Button label='View details' />
+          <Button label='View details' textColor='text-white'/>
         </div>
       </div>
 
